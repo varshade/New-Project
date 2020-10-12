@@ -4,4 +4,4 @@
 # Ada Library Information
 *.ali
 
-*.package.xml
+package.xml
