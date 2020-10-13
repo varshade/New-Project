@@ -398,6 +398,12 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Pincode__c</fullName>
+        <externalId>false</externalId>
+        <label>Pincode</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>Rating</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
