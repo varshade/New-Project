@@ -163,6 +163,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Custom__c</fullName>
+        <externalId>false</externalId>
+        <label>Custom</label>
+        <length>8</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Shop</label>
     <nameField>
         <label>Shop Name</label>
