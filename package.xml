@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>vbtapp</members>
-        <members>vlocity_cmt</members>
-        <name>InstalledPackage</name>
+        <members>T&amp;C - FSCP</members>
+        <name>DocumentTemplate</name>
     </types>
     <version>49.0</version>
 </Package>
