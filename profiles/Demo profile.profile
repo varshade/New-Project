@@ -12168,11 +12168,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Asset.vlocity_cmt__EffectiveUsagePriceTotal__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Asset.vlocity_cmt__EffectiveUsageQuantity__c</field>
         <readable>true</readable>
     </fieldPermissions>
