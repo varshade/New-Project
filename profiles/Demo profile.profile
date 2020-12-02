@@ -12408,11 +12408,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>CampaignMember.vlocity_cmt__CampaignStatus__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>CampaignMember.vlocity_cmt__CampaignType__c</field>
         <readable>true</readable>
     </fieldPermissions>
