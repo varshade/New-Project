@@ -39189,11 +39189,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>vlocity_cmt__CalculationMatrix__c.vlocity_cmt__Grouped</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>vlocity_cmt__CalculationMatrix__c.vlocity_cmt__RowVersioned</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
