@@ -40752,10 +40752,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>FieldServiceDispatcher</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>FieldServiceLastMile</name>
     </userPermissions>
     <userPermissions>
