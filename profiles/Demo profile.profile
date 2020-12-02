@@ -12173,11 +12173,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>AssignedResource.EstimatedTravelTime</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>AssignedResource.EventId</field>
         <readable>true</readable>
     </fieldPermissions>
