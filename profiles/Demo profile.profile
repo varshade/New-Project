@@ -12168,11 +12168,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Asset.vlocity_cmt__ActivationDate__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Asset.vlocity_cmt__ActivationName__c</field>
         <readable>true</readable>
     </fieldPermissions>
