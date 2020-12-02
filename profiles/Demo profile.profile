@@ -5222,10 +5222,6 @@
         <name>Packaging2Delete</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
-        <name>Packaging2PromoteVersion</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>false</enabled>
         <name>PasswordNeverExpires</name>
     </userPermissions>
