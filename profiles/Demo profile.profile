@@ -39189,11 +39189,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>vlocity_cmt__CalculationProcedure__c.vlocity_cmt__ClassBased</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>vlocity_cmt__CalculationProcedure__c.vlocity_cmt__Declarative</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
