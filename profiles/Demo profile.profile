@@ -39189,11 +39189,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>vlocity_cmt__PricingComponent__c.vlocity_cmt__Grant</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>vlocity_cmt__Project__c.vlocity_cmt__WorkSet</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
