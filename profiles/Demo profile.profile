@@ -33291,10 +33291,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
-        <recordType>Account.Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
         <recordType>Account.Account_new</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -39175,11 +39171,6 @@
         <apexPage>vlocity_cmt__picklistTranslationPage</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
-    <recordTypeVisibilities>
-        <default>true</default>
-        <recordType>Account.Account</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Account.Account_new</recordType>
