@@ -39180,11 +39180,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Order.vlocity_cmt__SubOrder</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Product2.vlocity_cmt__Class</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
