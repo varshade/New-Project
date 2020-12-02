@@ -5214,10 +5214,6 @@
         <name>NewReportBuilder</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>OptOutGeoLocationTracking</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>Packaging2</name>
     </userPermissions>
