@@ -4259,10 +4259,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__QueuedOrders</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__RelationshipGraphAdmin</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
