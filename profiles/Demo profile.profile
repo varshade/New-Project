@@ -4259,10 +4259,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__OMNotifications</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__ObjectMapper</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
