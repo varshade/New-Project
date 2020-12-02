@@ -4259,10 +4259,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__VlocityIntelligenceResource</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__VlocityOMPlusAdministration</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
