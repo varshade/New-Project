@@ -39189,11 +39189,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>vlocity_cmt__IntegrationRetryPolicy__c.vlocity_cmt__MonotonousRetryPolicy</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>vlocity_cmt__IntegrationRetryPolicy__c.vlocity_cmt__NoRetryPolicy</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
