@@ -4259,10 +4259,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__IntegrationProcedureHome</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__LWCDesigner</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
