@@ -12168,11 +12168,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Asset.vlocity_cmt__RecurringCostTotal__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Asset.vlocity_cmt__RecurringCost__c</field>
         <readable>true</readable>
     </fieldPermissions>
