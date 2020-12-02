@@ -39189,11 +39189,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Order.vlocity_cmt__MobilePhoneOrder</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Order.vlocity_cmt__SubOrder</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
