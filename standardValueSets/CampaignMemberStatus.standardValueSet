@@ -7,11 +7,6 @@
         <label>Planned</label>
     </standardValue>
     <standardValue>
-        <fullName>Received</fullName>
-        <default>false</default>
-        <label>Received</label>
-    </standardValue>
-    <standardValue>
         <fullName>Responded</fullName>
         <default>false</default>
         <label>Responded</label>

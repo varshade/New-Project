@@ -11,9 +11,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>true</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>varsha@copado.com.prod</defaultCaseOwner>
+    <defaultCaseOwner>varsha@uat.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>varsha@copado.com.prod</defaultCaseUser>
+    <defaultCaseUser>varsha@uat.com</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>

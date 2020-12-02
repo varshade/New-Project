@@ -277,6 +277,33 @@
         <fullName>Type</fullName>
         <type>Picklist</type>
     </fields>
+    <fields>
+        <fullName>subscription__c</fullName>
+        <externalId>false</externalId>
+        <label>subscription</label>
+        <required>false</required>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>a</fullName>
+                    <default>false</default>
+                    <label>a</label>
+                </value>
+                <value>
+                    <fullName>b</fullName>
+                    <default>false</default>
+                    <label>b</label>
+                </value>
+                <value>
+                    <fullName>c</fullName>
+                    <default>false</default>
+                    <label>c</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <listViews>
         <fullName>AllActiveCampaigns</fullName>
         <filterScope>Everything</filterScope>
@@ -286,16 +313,6 @@
             <value>1</value>
         </filters>
         <label>All Active Campaigns</label>
-    </listViews>
-    <listViews>
-        <fullName>MyActiveCampaigns</fullName>
-        <filterScope>Mine</filterScope>
-        <filters>
-            <field>CAMPAIGN.ACTIVE</field>
-            <operation>equals</operation>
-            <value>1</value>
-        </filters>
-        <label>My Active Campaigns</label>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>CAMPAIGN.NAME</customTabListAdditionalFields>
