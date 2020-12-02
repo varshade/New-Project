@@ -12038,11 +12038,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.vlocity_cmt__Disclosure2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Account.vlocity_cmt__Disclosure3__c</field>
         <readable>true</readable>
     </fieldPermissions>
