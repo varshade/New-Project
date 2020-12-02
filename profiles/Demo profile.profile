@@ -39165,11 +39165,6 @@
     </pageAccesses>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Campaign.vlocity_cmt__MobilePhoneCampaign</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Case.vlocity_cmt__Billing</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
