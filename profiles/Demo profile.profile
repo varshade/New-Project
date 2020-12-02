@@ -39189,11 +39189,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Quote.vlocity_cmt__GroupCart</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Quote.vlocity_cmt__MasterQuote</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
