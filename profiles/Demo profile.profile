@@ -4259,10 +4259,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__ContentAttribute</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__ContentSegments</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
