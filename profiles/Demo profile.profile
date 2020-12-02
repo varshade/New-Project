@@ -12038,11 +12038,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.vlocity_cmt__AutoPaymentLimitAmount__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Account.vlocity_cmt__AutoPaymentMethodId__c</field>
         <readable>true</readable>
     </fieldPermissions>
