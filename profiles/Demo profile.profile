@@ -12173,11 +12173,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>AssetRelationship.vlocity_cmt__ProductRelationshipIdentifier__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>AssignedResource.ActualTravelTime</field>
         <readable>true</readable>
     </fieldPermissions>
