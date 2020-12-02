@@ -12408,11 +12408,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Campaign.vlocity_cmt__ContentDocumentTitle__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Campaign.vlocity_cmt__EmailTemplate__c</field>
         <readable>true</readable>
     </fieldPermissions>
