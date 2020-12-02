@@ -4827,10 +4827,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>FieldServiceScheduling</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ForceTwoFactor</name>
     </userPermissions>
     <userPermissions>
