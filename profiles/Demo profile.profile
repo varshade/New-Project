@@ -39180,11 +39180,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>vlocity_cmt__VlocitySearchWidgetSetup__c.vlocity_cmt__ClassBased</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>vlocity_cmt__VlocitySearchWidgetSetup__c.vlocity_cmt__ObjectBased</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
