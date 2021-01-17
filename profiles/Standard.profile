@@ -823,11 +823,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Contact.AccountId</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Contact.AssistantName</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -3226,6 +3221,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>CanAccessCE</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ChatterEditOwnPost</name>
     </userPermissions>
     <userPermissions>
@@ -3303,6 +3302,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ExportReport</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>FieldServiceAccess</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
