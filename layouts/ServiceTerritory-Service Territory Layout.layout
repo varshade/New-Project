@@ -75,6 +75,12 @@
         <relatedList>ServiceTerritoryMembers</relatedList>
     </relatedLists>
     <relatedLists>
+        <fields>Name</fields>
+        <fields>ServiceTerritory</fields>
+        <fields>Location</fields>
+        <relatedList>ServiceTerritoryLocations</relatedList>
+    </relatedLists>
+    <relatedLists>
         <relatedList>RelatedFileList</relatedList>
     </relatedLists>
     <relatedLists>
@@ -91,6 +97,13 @@
         <fields>Name</fields>
         <fields>WorkType</fields>
         <relatedList>ServiceTerritoryWorkType</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Label</fields>
+        <fields>StartTime</fields>
+        <fields>EndTime</fields>
+        <fields>Status</fields>
+        <relatedList>ServiceTerritoryShifts</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>

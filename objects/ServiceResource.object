@@ -129,6 +129,19 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>IsCapacityBased</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>IsOptimizationCapable</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>LocationId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -145,6 +158,11 @@
     <fields>
         <fullName>ResourceType</fullName>
         <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>ServiceCrewId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
     </fields>
     <listViews>
         <fullName>All_ServiceResources</fullName>
