@@ -4,5 +4,9 @@
         <members>Activity.CoreTwo__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>varsha</members>
+        <name>Skill</name>
+    </types>
     <version>50.0</version>
 </Package>
