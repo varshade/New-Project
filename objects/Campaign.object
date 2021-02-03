@@ -187,6 +187,15 @@
         <fullName>ExpectedRevenue</fullName>
     </fields>
     <fields>
+        <fullName>ExternalId__c</fullName>
+        <externalId>true</externalId>
+        <label>External Id</label>
+        <length>8</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>HierarchyActualCost</fullName>
     </fields>
     <fields>
