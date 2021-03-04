@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>Charge (517349a3cdc1acf50617693e3ba33988)</members>
+        <members>Discount (104d9898c04874d0fbac36e125fa1369)</members>
+        <members>Pricing Element Object (18d330806bf900b8ec42e44b9e915891)</members>
+        <name>ObjectClass</name>
+    </types>
+    <types>
+        <members>ChargeLayout (936c407eea170241fbaa08f9009db3be)</members>
+        <members>DiscountLayout (9dbd37200af04916049bde2ee41262df)</members>
+        <members>PricingElementLayout (2449fd4fa3d4f854114607d079380900)</members>
+        <name>ObjectLayout</name>
+    </types>
+    <types>
+        <members>B2B Price List (PL-B2B)</members>
+        <name>PriceList</name>
+    </types>
+    <types>
+        <members>Standard Price Book</members>
+        <name>Pricebook2</name>
+    </types>
+    <types>
         <members>One Time Std Price (OT_STD_PRC)</members>
+        <members>One Time Std Price Adjustment Abs (OT_STD_PRC_ADJ_ABS)</members>
+        <members>One Time Std Price Adjustment Pct (OT_STD_PRC_ADJ_PCT)</members>
+        <members>Recurring Monthly Std Price (REC_MNTH_STD_PRC)</members>
+        <members>Recurring Monthly Std Price Adjustment Pct (REC_MNTH_STD_PRC_ADJ_PCT)</members>
         <name>PricingVariable</name>
+    </types>
+    <types>
+        <members>General Properties (5ceff4783b0f59f31b27417a7064a12c)</members>
+        <name>UIFacet</name>
+    </types>
+    <types>
+        <members>Adjustment (4227750baa6e4fc274e4c3fad04081b8)</members>
+        <members>Charge Info (70bedac4d87962a1252e43f4fc0e2ebf)</members>
+        <members>Context (ad4e206408c1c59bfb8a057ba7857446)</members>
+        <members>Effectivity (07fb6c10c8822dcf5708e0b13836de9d)</members>
+        <members>General Properties (5ceff4783b0f59f31b27417a7064a12c)</members>
+        <members>Price Matrix (ae798375fe68f9689f592b56ce26fa5f)</members>
+        <name>UISection</name>
     </types>
     <version>50.0</version>
 </Package>
