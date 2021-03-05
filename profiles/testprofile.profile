@@ -4494,10 +4494,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__ObjectMapper</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__OmniScriptHome</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
