@@ -13224,11 +13224,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Campaign.subscription__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Campaign.vlocity_cmt__CampaignContentDocumentId__c</field>
         <readable>true</readable>
     </fieldPermissions>
