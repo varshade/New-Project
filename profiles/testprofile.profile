@@ -12669,11 +12669,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Case.vlocity_cmt__StatusImageName__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Case.vlocity_cmt__SubscriptionId__c</field>
         <readable>true</readable>
     </fieldPermissions>
