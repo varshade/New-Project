@@ -4494,10 +4494,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__Vlocity_String_Translations</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__XOMManageEncryptionKeys</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
