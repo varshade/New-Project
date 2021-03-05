@@ -40239,11 +40239,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Quote.vlocity_cmt__MasterQuote</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Quote.vlocity_cmt__SubQuote</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
