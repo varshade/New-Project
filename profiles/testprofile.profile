@@ -12664,11 +12664,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Case.vlocity_cmt__DisputeId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Case.vlocity_cmt__Dispute_ID__c</field>
         <readable>true</readable>
     </fieldPermissions>
