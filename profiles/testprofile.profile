@@ -4494,10 +4494,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__VlocityAttributeCategory</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__VlocityCardDesigner</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
