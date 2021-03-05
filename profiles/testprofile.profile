@@ -2168,11 +2168,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>ReturnOrderLineItem.ProductServiceCampaignId</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>ReturnOrderLineItem.ProductServiceCampaignItemId</field>
         <readable>false</readable>
     </fieldPermissions>
