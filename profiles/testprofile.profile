@@ -2117,11 +2117,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>ReturnOrder.ProductServiceCampaignId</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>ReturnOrder.ReturnedById</field>
         <readable>true</readable>
