@@ -41886,10 +41886,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>FieldServiceMobileApp</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>FieldServiceScheduling</name>
     </userPermissions>
     <userPermissions>
