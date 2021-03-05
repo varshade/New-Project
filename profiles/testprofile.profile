@@ -40230,11 +40230,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Opportunity.vlocity_cmt__MobilePhoneOpportunity</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Order.vlocity_cmt__GroupCart</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
