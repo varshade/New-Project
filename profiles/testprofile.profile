@@ -41881,10 +41881,6 @@
         <name>FeedPinning</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
-        <name>FieldServiceAccess</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>false</enabled>
         <name>FieldServiceDispatcher</name>
     </userPermissions>
