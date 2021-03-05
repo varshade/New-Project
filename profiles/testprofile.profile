@@ -2167,11 +2167,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>ReturnOrderLineItem.ProductServiceCampaignItemId</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>ReturnOrderLineItem.QuantityUnitOfMeasure</field>
         <readable>true</readable>
