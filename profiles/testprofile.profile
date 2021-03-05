@@ -42290,10 +42290,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>OptOutGeoLocationTracking</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>Packaging2</name>
     </userPermissions>
     <userPermissions>
