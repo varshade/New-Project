@@ -12134,11 +12134,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.vlocity_cmt__PrepayReloadThreshold__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Account.vlocity_cmt__PrimaryContactId__c</field>
         <readable>true</readable>
     </fieldPermissions>
