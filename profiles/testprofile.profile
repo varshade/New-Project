@@ -40230,11 +40230,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Quote.vlocity_cmt__SubQuote</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Task.vlocity_cmt__MobilePhoneTask</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
