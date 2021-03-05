@@ -41886,10 +41886,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>FieldServiceLastMile</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>FieldServiceMobileApp</name>
     </userPermissions>
     <userPermissions>
