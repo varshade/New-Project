@@ -12549,11 +12549,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Campaign.vlocity_cmt__FollowUpTo__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Campaign.vlocity_cmt__MassEmailContent__c</field>
         <readable>true</readable>
     </fieldPermissions>
