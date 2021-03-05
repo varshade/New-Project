@@ -40219,11 +40219,6 @@
     </pageAccesses>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Account.vlocity_cmt__BillingAggregator</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Account.vlocity_cmt__Business</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
