@@ -40230,11 +40230,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>vlocity_cmt__Promotion__c.vlocity_cmt__Discount</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>vlocity_cmt__Promotion__c.vlocity_cmt__Promotion</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
