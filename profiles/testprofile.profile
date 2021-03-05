@@ -5489,10 +5489,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>PortalSuperUser</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>PreventClassicExperience</name>
     </userPermissions>
     <userPermissions>
