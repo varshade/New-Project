@@ -33937,10 +33937,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
-        <recordType>Account.Account_new</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
         <recordType>Account.vlocity_cmt__MobilePhoneAccount</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -40221,11 +40217,6 @@
         <apexPage>vlocity_cmt__picklistTranslationPage</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Account.Account_new</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Account.vlocity_cmt__Billing</recordType>
