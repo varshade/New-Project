@@ -12134,11 +12134,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.vlocity_cmt__NetWorth__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Account.vlocity_cmt__NumberofLocations__c</field>
         <readable>true</readable>
     </fieldPermissions>
