@@ -40239,11 +40239,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>vlocity_cmt__AssessmentQuestion__c.vlocity_cmt__Date</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>vlocity_cmt__AssessmentQuestion__c.vlocity_cmt__FreeText</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
