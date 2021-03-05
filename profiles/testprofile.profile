@@ -12304,11 +12304,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Asset.vlocity_cmt__CatalogItemReferenceDateTime__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Asset.vlocity_cmt__ConnectDate__c</field>
         <readable>true</readable>
     </fieldPermissions>
