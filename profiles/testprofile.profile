@@ -12549,11 +12549,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Campaign.vlocity_cmt__ProcessPrefillBundle__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Campaign.vlocity_cmt__ProcessSubType__c</field>
         <readable>true</readable>
     </fieldPermissions>
