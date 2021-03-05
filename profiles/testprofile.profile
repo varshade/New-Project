@@ -4494,10 +4494,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__RelationshipGraphAdmin</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__VlocityAdministration</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
