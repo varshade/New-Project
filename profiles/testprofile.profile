@@ -40230,11 +40230,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>vlocity_cmt__AssessmentQuestion__c.vlocity_cmt__SingleSelect</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>vlocity_cmt__CalculationMatrix__c.vlocity_cmt__Grouped</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
