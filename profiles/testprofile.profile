@@ -443,11 +443,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Asset.SumDowntime</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Asset.SumUnplannedDowntime</field>
         <readable>false</readable>
     </fieldPermissions>
