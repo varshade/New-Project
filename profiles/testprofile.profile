@@ -4494,10 +4494,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>vlocity_cmt__AssignedToMe</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>vlocity_cmt__Assigned_To_Me</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
