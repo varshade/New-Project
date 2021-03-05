@@ -40224,11 +40224,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Account.vlocity_cmt__Service</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Account.vlocity_cmt__ServiceAggregator</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
