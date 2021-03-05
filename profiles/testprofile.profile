@@ -12134,11 +12134,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.vlocity_cmt__TaxExemptionType__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Account.vlocity_cmt__TaxID__c</field>
         <readable>true</readable>
     </fieldPermissions>
