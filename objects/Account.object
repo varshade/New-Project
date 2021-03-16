@@ -553,9 +553,11 @@
     </fields>
     <fields>
         <fullName>Recomit_Test__c</fullName>
+        <description>Testing URL callout</description>
         <externalId>false</externalId>
+        <inlineHelpText>Testing URL callout</inlineHelpText>
         <label>Recomit Test</label>
-        <length>16</length>
+        <length>25</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
