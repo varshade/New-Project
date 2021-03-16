@@ -544,6 +544,14 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Recomit_Test_2__c</fullName>
+        <externalId>false</externalId>
+        <label>Recomit Test 2</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>TextArea</type>
+    </fields>
+    <fields>
         <fullName>Recomit_Test__c</fullName>
         <externalId>false</externalId>
         <label>Recomit Test</label>
