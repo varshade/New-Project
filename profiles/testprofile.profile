@@ -34417,10 +34417,6 @@
         <layout>WorkTypeGroupMember-Work Type Group Member Layout</layout>
     </layoutAssignments>
     <loginIpRanges>
-        <endAddress>50.26.241.146</endAddress>
-        <startAddress>49.36.241.142</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
         <endAddress>50.26.241.147</endAddress>
         <startAddress>49.36.241.143</startAddress>
     </loginIpRanges>
