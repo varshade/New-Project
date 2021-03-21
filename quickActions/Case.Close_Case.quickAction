@@ -31,6 +31,6 @@
     <successMessage>test message</successMessage>
     <targetObject>Case</targetObject>
     <targetParentField>Parent</targetParentField>
-    <targetRecordType>Case.vlocity_cmt__Billing</targetRecordType>
+    
     <type>Create</type>
 </QuickAction>
