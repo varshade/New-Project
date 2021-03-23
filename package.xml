@@ -4,5 +4,13 @@
         <members>testcommunity1</members>
         <name>ExperienceBundle</name>
     </types>
+    <types>
+        <members>testcommunity</members>
+        <name>Network</name>
+    </types>
+    <types>
+        <members>testcommunity1</members>
+        <name>SiteDotCom</name>
+    </types>
     <version>51.0</version>
 </Package>
