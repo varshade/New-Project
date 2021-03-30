@@ -8,21 +8,5 @@
         <members>testcommunity_test_community_page</members>
         <name>FlexiPage</name>
     </types>
-    <types>
-        <members>testcommunity</members>
-        <name>Network</name>
-    </types>
-    <types>
-        <members>testcommunity1</members>
-        <name>SiteDotCom</name>
-    </types>
-    <types>
-        <members>testcommunity</members>
-        <name>Network</name>
-    </types>
-    <types>
-        <members>testcommunity1</members>
-        <name>SiteDotCom</name>
-    </types>
     <version>51.0</version>
 </Package>
