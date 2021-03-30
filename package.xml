@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>ZscalerCustomSetting__c.Name__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>ZscalerCustomSetting__c</members>
-        <name>CustomObject</name>
+        <members>testcommunity_test_community_page</members>
+        <name>FlexiPage</name>
     </types>
     <version>51.0</version>
 </Package>
