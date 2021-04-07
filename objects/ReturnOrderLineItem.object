@@ -178,6 +178,16 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>ProductServiceCampaignId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>ProductServiceCampaignItemId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>QuantityExpected</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -274,6 +284,8 @@
         <customTabListAdditionalFields>DestinationLocation</customTabListAdditionalFields>
         <customTabListAdditionalFields>Asset</customTabListAdditionalFields>
         <customTabListAdditionalFields>ChangeOrderItem</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ProductServiceCampaign</customTabListAdditionalFields>
+        <customTabListAdditionalFields>ProductServiceCampaignItem</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>LastModifiedDate</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>LastModifiedBy</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>ReturnOrder</lookupDialogsAdditionalFields>
@@ -285,6 +297,8 @@
         <lookupDialogsAdditionalFields>DestinationLocation</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>Asset</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>ChangeOrderItem</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ProductServiceCampaign</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>ProductServiceCampaignItem</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>LastModifiedDate</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>LastModifiedBy</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ReturnOrder</lookupPhoneDialogsAdditionalFields>
@@ -296,6 +310,8 @@
         <lookupPhoneDialogsAdditionalFields>DestinationLocation</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>Asset</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ChangeOrderItem</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ProductServiceCampaign</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ProductServiceCampaignItem</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>LastModifiedDate</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LastModifiedBy</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ReturnOrder</searchResultsAdditionalFields>
@@ -307,6 +323,8 @@
         <searchResultsAdditionalFields>DestinationLocation</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Asset</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ChangeOrderItem</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ProductServiceCampaign</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ProductServiceCampaignItem</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>

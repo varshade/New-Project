@@ -173,7 +173,10 @@
         <relatedList>WorkOrderLineItems</relatedList>
     </relatedLists>
     <relatedLists>
+        <fields>Name</fields>
         <fields>Asset</fields>
+        <fields>NextSuggestedMaintenanceDate</fields>
+        <fields>WorkType</fields>
         <relatedList>MaintenanceAssets</relatedList>
     </relatedLists>
     <relatedLists>

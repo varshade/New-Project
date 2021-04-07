@@ -404,6 +404,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -482,6 +486,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -813,6 +818,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -891,6 +900,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1226,6 +1236,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1305,6 +1319,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1636,6 +1651,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1714,6 +1733,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2049,6 +2069,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2128,6 +2152,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2459,6 +2484,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2537,6 +2566,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2872,6 +2902,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2951,6 +2985,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -3282,6 +3317,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -3360,6 +3399,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -3695,6 +3735,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -3774,6 +3818,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -4105,6 +4150,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -4183,6 +4232,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -4518,6 +4568,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -4597,6 +4651,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -4928,6 +4983,10 @@
             <field>00N2w00000GsQIj</field>
             <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>PARTNER.NAME</field>
+            <label>Partner Account</label>
+        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -5006,6 +5065,7 @@
             <field>00N2w00000GsQIh</field>
             <field>00N2w00000GsQIi</field>
             <field>00N2w00000GsQIj</field>
+            <field>PARTNER.NAME</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>

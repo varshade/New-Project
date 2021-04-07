@@ -40,6 +40,10 @@
                 <behavior>Edit</behavior>
                 <field>Address__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Custom_external_id__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

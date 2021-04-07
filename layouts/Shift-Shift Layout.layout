@@ -44,6 +44,10 @@
                 <behavior>Edit</behavior>
                 <field>Label</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>RecordsetFilterCriteriaId</field>
+            </layoutItems>
         </layoutColumns>
         <style>TwoColumnsLeftToRight</style>
     </layoutSections>

@@ -184,6 +184,10 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>TotalItemsQuantity</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>TrackingNumber</fullName>
         <trackHistory>false</trackHistory>
     </fields>

@@ -8,7 +8,6 @@
     "IsArchived": false,
     "IsStandard": false,
     "Name": "Standard",
-    "PricebookEntry": "Standard_PricebookEntries.json",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "Pricebook2",
     "VlocityRecordSourceKey": "Pricebook2/Standard"
