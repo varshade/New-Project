@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>customercommunity1</members>
         <members>testcommunity1</members>
         <name>ExperienceBundle</name>
+    </types>
+    <types>
+        <members>testcommunity_new_copado_page</members>
+        <members>testcommunity_test_community_page</members>
+        <name>FlexiPage</name>
     </types>
     <version>51.0</version>
 </Package>
