@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "bb4dafc9-fa15-4d17-95e5-873842056dbd",
+  "appPageId" : "b45b6a8a-885d-430c-abfa-68a6cb461961",
+  "configurationTags" : [ ],
+  "id" : "ab4829eb-7c70-450a-8d70-2cb2110835fd",
+  "label" : "test community page",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-test-community-page",
+  "type" : "route",
+  "urlPrefix" : "test-community-page"
+}
