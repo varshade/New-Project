@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "2532e760-43dc-4899-bc2e-e535144ccc43",
+  "appPageId" : "b45b6a8a-885d-430c-abfa-68a6cb461961",
+  "configurationTags" : [ ],
+  "id" : "11b497c8-e188-48c6-9676-d4509a333026",
+  "label" : "new copado page",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-new-copado-page",
+  "type" : "route",
+  "urlPrefix" : "new-copado-page"
+}
