@@ -1,0 +1,71 @@
+{
+  "appPageId" : "b45b6a8a-885d-430c-abfa-68a6cb461961",
+  "componentName" : "siteforce:dynamicLayout",
+  "id" : "2532e760-43dc-4899-bc2e-e535144ccc43",
+  "label" : "new copado page",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "f419599c-6eda-4064-88fc-f028e68c78d5",
+          "columns" : [ {
+            "UUID" : "29e5e491-ebb7-4926-9add-7b48e3664afd",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "f419599c-6eda-4064-88fc-f028e68c78d5",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "showCreateNewCalendar" : false,
+            "showOtherCalendars" : false,
+            "showSidebar" : true
+          },
+          "componentName" : "forceCommunity:calendar",
+          "id" : "08017777-88eb-4ad8-a020-edd68c694cf1",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "29e5e491-ebb7-4926-9add-7b48e3664afd",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e300e17d-4126-4205-8700-041e955376e3",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "new copado page"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "47901483-54d7-4f50-9a63-4d66bc7355b6",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ad459b5b-ecbc-4cd5-ae92-f12c0d360d57",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-new-copado-page"
+}

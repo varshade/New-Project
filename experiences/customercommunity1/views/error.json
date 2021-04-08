@@ -1,0 +1,47 @@
+{
+  "appPageId" : "6d0964ee-09d4-4527-84f3-b62bbfab0065",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "49ea855e-97b8-455c-8761-dc6bc6ba6a0f",
+  "label" : "Error",
+  "regions" : [ {
+    "id" : "650b752f-fce5-46e2-aa2f-2169ea197c5c",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : " <div class='slds-grid slds-grid--vertical slds-align--absolute-center slds-container--large'>   <div class='slds-align-middle slds-m-bottom--xx-large slds-m-top--xx-large' alt='Page not available'>      <img src='/sfsites/c/img/community/slds/messaging/illustration-page-not-found.png' class='slds-p-horizontal--large'/>   </div>   <h4 class='slds-text-align--center slds-text-heading--large slds-text-color--weak slds-m-bottom--small'>Page not available</h4>    <p class='slds-text-align--center slds-text-heading--medium slds-text-color--weak'>Maybe the page was deleted, the URL is incorrect, or something else went wrong. If you know the page exists but you still can’t get to it, please ask the community administrator for help.</p>  </div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "a7af76b6-73fb-4aee-b1f9-132b5582e44b",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "dcc6e4f2-6e12-4645-b9e7-e736a4595d2c",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "2ab54bfd-8080-4c8d-8ec5-eee3911bde7d",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "description" : "",
+        "metaTags" : "",
+        "title" : "Error"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "8b9efa2c-6aa3-451b-ba88-edc964c524d1",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d6600c04-95c4-439e-973b-eb0a041ddb69",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "error"
+}
