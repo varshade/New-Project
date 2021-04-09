@@ -8,5 +8,9 @@
         <members>customercommunity</members>
         <name>Network</name>
     </types>
+    <types>
+        <members>customercommunity1</members>
+        <name>SiteDotCom</name>
+    </types>
     <version>51.0</version>
 </Package>
