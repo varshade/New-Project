@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>ZscalerCustomSetting__c.Name__c</members>
+        <members>Case.Country__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>ZscalerCustomSetting__c</members>
-        <name>CustomObject</name>
+        <members>Case-fr</members>
+        <name>CustomObjectTranslation</name>
     </types>
     <version>51.0</version>
 </Package>
