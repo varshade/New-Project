@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Guest_Menu</members>
-        <name>NavigationMenu</name>
+        <members>vlocity_cmt__VlocityReports/vlocity_cmt__BillingByMonth</members>
+        <name>Report</name>
     </types>
     <types>
-        <members>fr</members>
-        <name>Translations</name>
+        <members>vlocity_cmt__AccountsWithStatements</members>
+        <name>ReportType</name>
     </types>
     <version>51.0</version>
 </Package>
